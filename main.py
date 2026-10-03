@@ -6,7 +6,7 @@ topic = "tesla"
 url = ("https://newsapi.org/v2/everything?"
        f"q={topic}&"
        "sortBy=publishedAt&"
-       f"apiKey=9766c399c522419b9bc95edcc281db1f&"
+       f"apiKey=(Keep APIKEY from news.org)"
        "language=en")
 
 # Make request
